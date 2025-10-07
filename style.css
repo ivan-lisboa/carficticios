@@ -86,7 +86,7 @@ body {
 
 
 .hero-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/carprata.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('./img/carprata.png');
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -651,4 +651,5 @@ body {
 
 .button-group i {
     margin-right: 5px;
+
 }
